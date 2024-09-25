@@ -1,2 +1,2 @@
-# Playing-with-TencentARC-s-Photomaker.ipynb
-Playing with TencentARC's Photomaker.ipynb
+# Playing-with-TencentARC-s-Photomaker
+Playing with TencentARC's Photomaker
